@@ -1,0 +1,4 @@
+# core code examples
+palmerpenguins
+plotnine
+shiny
